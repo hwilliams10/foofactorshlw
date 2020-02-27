@@ -1,2 +1,0 @@
-# foofactorshlw
-R toy package
